@@ -88,7 +88,9 @@ There is an issue in Spyder where pressing and holding the backspace key yields 
 
 Currently I have only tested it in Windows 10, Manjaro and Parrot, so I'm not sure it works in macOS.  
 
-This will not work in Jupyter Notebook correctly. Haven't tested it in PyCharm yet, so it might work.
+This will not work in Jupyter Notebook correctly.
+
+This does not work in PyCharm, as reported by a PyCharm user.
 
 ### Tips
 
